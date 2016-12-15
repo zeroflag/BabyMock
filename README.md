@@ -2,6 +2,6 @@ BabyMock, a visual mock object library.
 
 Source and wiki is at:
 
-http://smalltalkhub.com/#!/~zeroflag/BabyMock2
+<a href="http://smalltalkhub.com/#!/~zeroflag/BabyMock2">smalltalkhub</a>
 
 Issue tracking is at github.
